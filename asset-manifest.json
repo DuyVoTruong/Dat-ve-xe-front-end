@@ -1,18 +1,22 @@
 {
   "files": {
     "main.css": "/Dat-ve-xe-front-end/static/css/main.68d00829.css",
-    "main.js": "/Dat-ve-xe-front-end/static/js/main.583ae8cd.js",
+    "main.js": "/Dat-ve-xe-front-end/static/js/main.50dd448d.js",
     "static/js/787.550a1c1c.chunk.js": "/Dat-ve-xe-front-end/static/js/787.550a1c1c.chunk.js",
+    "static/media/picture2.png": "/Dat-ve-xe-front-end/static/media/picture2.ccb43eac266374ba4bf9.png",
+    "static/media/picture1.png": "/Dat-ve-xe-front-end/static/media/picture1.5b553748f2a9b52f5a95.png",
+    "static/media/ticket-icon.png": "/Dat-ve-xe-front-end/static/media/ticket-icon.34f05b488dc5bba8c1ad.png",
     "static/media/revicons.eot": "/Dat-ve-xe-front-end/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Dat-ve-xe-front-end/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/xe.png": "/Dat-ve-xe-front-end/static/media/xe.8ee2e696b76069278a3a.png",
     "static/media/revicons.woff": "/Dat-ve-xe-front-end/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Dat-ve-xe-front-end/index.html",
     "main.68d00829.css.map": "/Dat-ve-xe-front-end/static/css/main.68d00829.css.map",
-    "main.583ae8cd.js.map": "/Dat-ve-xe-front-end/static/js/main.583ae8cd.js.map",
+    "main.50dd448d.js.map": "/Dat-ve-xe-front-end/static/js/main.50dd448d.js.map",
     "787.550a1c1c.chunk.js.map": "/Dat-ve-xe-front-end/static/js/787.550a1c1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68d00829.css",
-    "static/js/main.583ae8cd.js"
+    "static/js/main.50dd448d.js"
   ]
 }
